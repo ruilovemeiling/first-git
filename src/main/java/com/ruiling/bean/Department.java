@@ -4,6 +4,7 @@ public class Department {
 
     private Integer id;
     private String departmentName;
+    private String id2;
 
     public void setId(Integer id) {
         this.id = id;
